@@ -1,3 +1,10 @@
+---
+layout: post
+title: Some title
+published: true
+type: post
+status: published
+---
 
 Get the EU
 ==========
