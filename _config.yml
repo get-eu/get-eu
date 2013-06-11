@@ -5,13 +5,13 @@ auto: true
 rdiscount:
   extensions: [smart]
 title : Get EU!
-production_url : http://carlosbecker.com
-description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
+production_url : http://get-eu.org/
+description: "Debate about the European Union"
 disqus_shortname: caarlos0blog
-analytics: UA-32899481-1
-gauges: 50f2b533613f5d7c8000000c
+#analytics: UA-32899481-1
+#gauges: 50f2b533613f5d7c8000000c
 author :
-  name : Carlos Alexandro Becker
-  github : caarlos0
-  twitter : caarlos0
-  email: caarlos0@gmail.com
+  name : Martin Keegan
+  github : mk270
+  twitter : mk270
+  email: martin@no.ucant.org
