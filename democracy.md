@@ -4,6 +4,7 @@ title: Democracy
 ---
 
 * [Supranational democracy cannot exist](suprademocracy.html)
+
 europhiles claim that the problem with democarcy in the Eu would be fixed if the eu institutions were democratic. this just isn't true.
 
 the fundamental point is that people do not consent to being governed by
