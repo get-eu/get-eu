@@ -13,83 +13,80 @@
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300'
     rel='stylesheet' type='text/css'>
 
-  <link href="/css/up.css" rel="stylesheet">
+  <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
 
   <!--[if lt IE 9]>
   <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
   <link rel="shortcut icon" href="/favicon.ico">
-
+  <style type="text/css">
+    body {
+    padding-top: 50px;
+    padding-bottom: 60px;
+    }
+  </style>
 </head>
 
 <body>
-  <div class="navbar navbar-fixed-top">
-    <div class="container">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/">{{ site.title }}</a>
-      <a class="navbar-brand" href="/democracy.html">Democracy</a>
-      <a class="navbar-brand" href="/economics.html">Economics</a>
-      <a class="navbar-brand" href="/constitution.html">Constitution</a>
-	  <a class="navbar-brand" href="/news.html">News</a>
-      <div class="nav-collapse collapse navbar-responsive-collapse">
-        <ul class="nav navbar-nav pull-right hidden-print">
-          <li>
-            <a class="hidden-sm" title="About this site" href="/about.html">
-              <i class="icon-user icon-large"></i>
-            </a>
-            <a class="visible-sm" title="About this site" href="/about.html">
-              <i class="icon-user icon-large"></i>
-              About me
-            </a>
-          </li>
-          <li>
-            <a class="hidden-sm" href="/atom.xml" title="Atom Feed">
-              <i class="icon-rss icon-large"></i>
-            </a>
-            <a class="visible-sm" href="/atom.xml" title="Atom Feed">
-              <i class="icon-rss icon-large"></i>
-              Atom Feed
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="container">
-    {{ content }}
-  </div>
-
-  <div id="footer" class="hidden-print">
-    <section class="meta">
-      <div class="container">
-        <div class="row">
-          <div class="col col-lg-2 col-offset-4">
-            <a href="https://twitter.com/{{ site.author.twitter }}">
-              <i class="icon icon-twitter icon-4x"></i>
-              <div>Follow me on Twitter.</div>
-            </a>
-          </div>
-          <div class="col col-lg-2 next">
-            <a href="https://github.com/{{ site.author.github }}">
-              <i class="icon icon-github icon-4x"></i>
-              <div>
-                See my github profile.
-              </div>
-            </a>
-          </div>
+ <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="/">{{ site.title }}</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="/democracy.html">Democracy</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Economics <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/economics.html">Overview</a></li>
+                  <li><a href="/micro-reform.html">Microeconomic reform</a></li>
+                  <li><a href="/euro.html">The Euro</a></li>
+				  <li><a href="/trade.html">Trade</a></li>
+				  <li><a href="/agriculture.html">Agriculture</a></li>
+				  <li><a href="/fisheries.html">Fisheries</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Constitution <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/constitution.html">Overview</a></li>
+                  <li><a href="/defining-federalism.html">Federalism</a></li>
+                  <li><a href="/referendums.html">Referendums</a></li>
+                </ul>
+              </li>
+            </ul>
+			<ul class="nav pull-right">
+			  <li><a href="/about.html">About</a></li>
+			</ul>
+          </div><!--/.nav-collapse -->
         </div>
       </div>
-    </section>
+    </div>
+
+  <div class="container">
+	<div class="row">
+	  <div class="span8">
+		{{ content }}
+	  </div>
+	  <div class="span4">
+            <a href="https://twitter.com/{{ site.author.twitter }}">
+              <i class="icon icon-twitter icon-4x"></i>
+              <div>Follow me on Twitter</div>
+            </a>
+
+	  </div>
+	</div>
   </div>
+
   {% include analytics.html %}
   {% include gauges.html %}
 </body>
 <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-<script src="/js/up.js"></script>
+<script src="/bootstrap/js/bootstrap.js"></script>
 </html>
