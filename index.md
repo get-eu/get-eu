@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Some title
+title: Get the EU
 published: true
 type: post
 status: published
 ---
-
-Get the EU
-==========
 
 A site dedicated to helping the ordinary citizen get the EU. We're
 dedicated to public understanding and explanation.
