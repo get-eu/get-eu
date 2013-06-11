@@ -4,7 +4,7 @@ permalink: /posts/:title
 auto: true
 rdiscount:
   extensions: [smart]
-title : Carlos Becker
+title : Get EU!
 production_url : http://carlosbecker.com
 description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
 disqus_shortname: caarlos0blog
