@@ -1,16 +1,9 @@
-Is international democracy possible? Or EU democracy?
+---
+layout: layout
+title: Is international democracy possible? Or EU democracy?
+---
 
-Posted on October 11, 2012 by Martin Keegan
-
-Today David Aaronivitch has an article behind the Times paywall titled
-“But what if Europe follows a different map?”. In it he discusses the
-possibility of the UK’s terms of EU membership changing, and the
-establishment of democratic institutions at EU level.
-
-Quite rightly, he questions whether the rest ot the EU would be
-prepared to accept the sort of changes in UK terms of membership which
-(e.g.) the UK Prime Minister wants to achieve. He’s probably wrong
-about this: the EU already accommodates “differential geometry”, in
+The EU already accommodates “differential geometry”, in
 that some countries are not in the Eurozone or Schengen system, and
 that it is in the economic interests of the rest of the EU to maximise
 British economic involvement.
@@ -28,18 +21,9 @@ telecommunications sector.
 The EU is not going to turn around and tell Britain to take its
 appalling trade deficit somewhere else. If the UK government asked for
 minimal EU membership, the other countries would prefer this to UK
-withdrawal. Aaronovitch doesn’t really want his readers thinking about
-this.
+withdrawal.
 
-He also talks about “supra-national democratic institutions” that “can
-hold this process to account, somehow make it legitimate for the
-Hanoverian to help out the Thessalonikan, as the Texan pays for the
-Vermonter”. Why does he question whether a European acceptance of UK
-disengagement can ever happen, but not question whether this
-suprademocratic democracy can ever exist? It’s a big blind spot for
-the Europhiles.
-
-I don’t believe a supra-national democracy can exist. It’s a
+Supra-national democracy can't exist. It’s a
 contradiction in terms.
 
 The existence of a demos is a constraint, not a policy. It’s a social
@@ -100,6 +84,3 @@ The smart Europhile would prioritise measures to prevent this
 situation getting any worse. The European Court of Justice is a sham
 and may be beyond reform, but that’s where the smart Europhile should
 focus.
-
-But I’m not a Europhile …
-
