@@ -13,3 +13,5 @@ Thumbs.db
 _assets/bootstrap/tests
 node_modules/
 
+todo
+css/.sass-cache
