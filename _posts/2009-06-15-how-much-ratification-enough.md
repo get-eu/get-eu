@@ -38,10 +38,10 @@ purporting to exempt Ireland's abortion policies from the general
 rules about free movement. All solutions have to look something like
 this. The options are either
 
-1) to prevent the EU from having a particular power conferred upon it
-2) conditioning the exercise of powers on the consent of the Irish
+1. to prevent the EU from having a particular power conferred upon it
+2. conditioning the exercise of powers on the consent of the Irish
 government
-3) or to obtain a derogation such that the powers are not
+3. or to obtain a derogation such that the powers are not
 exercised against the Republic of Ireland
 
 
