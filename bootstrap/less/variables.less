@@ -3,8 +3,8 @@
 // --------------------------------------------------
 
 
-@colourScheme1:					  #4f4fcf;
-
+//@colourScheme1:					  #4f4fcf;
+@colourScheme1: 				  rgb(51, 102, 153);
 // Global values
 // --------------------------------------------------
 
@@ -182,8 +182,9 @@
 @navbarCollapseDesktopWidth:      @navbarCollapseWidth + 1;
 
 @navbarHeight:                    40px;
-@navbarBackgroundHighlight:       @colourScheme1;
-@navbarBackground:                darken(@navbarBackgroundHighlight, 5%);
+//@navbarBackground:                darken(@navbarBackgroundHighlight, 5%);
+@navbarBackground:                @colourScheme1;
+@navbarBackgroundHighlight:       lighten(@navbarBackground, 5%);
 @navbarBorder:                    darken(@navbarBackground, 12%);
 
 @navbarText:                      @grayLighter;
