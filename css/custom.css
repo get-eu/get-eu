@@ -1,12 +1,13 @@
 body {
-  padding-top: 50px;
+//  padding-top: 50px;
   padding-bottom: 60px;
 //  background: url(/img/brushed_alu.png) repeat 0 0; 
 }
 
 h1, h2 {
   text-shadow: 2px 2px 2px #081416;
-  margin-top: 1em; }
+//  margin-top: 1em; 
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cinzel Decorative', Georgia, Times, serif; }
@@ -20,8 +21,14 @@ p, div#main {
   font-size: 1.6rem;
   line-height: 1.3em; }
 
-#main ul li {
-  margin-top: 0.7em; }
+.nav ul li {
+  margin-top: 0.7em; 
+  list-style-type: none;
+}
 
-#main ol li {
+.nav ul li a {
+  color: #5acbf3;
+}
+
+.nav ol li {
   martin-top: 0.7em; }
