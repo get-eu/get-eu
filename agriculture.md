@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: Agriculture: CAP / CFP
+title: Agriculture / CAP / CFP
 ---
 
 Agriculture
