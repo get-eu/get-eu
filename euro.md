@@ -17,3 +17,4 @@ The Euro
 * German interest rates don't suit mortgage states (Spain, Ireland)
 * exchange rate won't fit all
 * Giovannini criteria not actually fixed
+* forgot about bank supervision / resolution / regional bank idiocy
