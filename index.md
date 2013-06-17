@@ -3,6 +3,9 @@ layout: layout
 title: Get the EU
 ---
 
+Summary: the case against the EU
+--------------------------------
+
 A site dedicated to helping the ordinary citizen get the EU. We're
 dedicated to public understanding and explanation.
 
