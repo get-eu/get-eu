@@ -12,17 +12,16 @@ h1, h2 {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cinzel Decorative', Georgia, Times, serif; }
 
-p, div#main {
+p#main, div#main {
   font-family: 'Lato', Helvetica, Arial, sans-serif;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
   margin-left: 1em;
   margin-right: 1em;
-  font-size: 1.6rem;
+  font-size: 1.1rem;
   line-height: 1.3em; }
 
 .nav ul li {
-  margin-top: 0.7em; 
   list-style-type: none;
 }
 
