@@ -14,9 +14,15 @@ web development to do so.
 Giving
 ------
 
-The 
+The text of this site is managed via [Github](http://github.com), at
+[this location](https://github.com/mk270/get-eu). You can use a range
+of tools to contribute new articles, fix typos, remove out of date
+content and so on.
 
-[the source text for this page](https://raw.github.com/mk270/get-eu/gh-pages/about.md)
+For example, the [the source text for this page](https://raw.github.com/mk270/get-eu/gh-pages/about.md).
+
+Explaining how to do all this is slightly beyond the scope of this page,
+but get in touch if you need some help.
 
 
 Taking
