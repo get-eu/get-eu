@@ -16,3 +16,4 @@ The Euro
   monetary policy
 * German interest rates don't suit mortgage states (Spain, Ireland)
 * exchange rate won't fit all
+* Giovannini criteria not actually fixed
