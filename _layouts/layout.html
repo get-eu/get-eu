@@ -31,15 +31,14 @@
 </head>
 
 <body>
- <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="brand" href="/">{{ site.title }}</a>
+
+  <div id="main" class="container">
+
+	<div class="row">
+	  <div class="span3">
+        <a class="brand" href="/">{{ site.title }}</a>
+		<ul class="nav nav-stacked">
+
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li><a href="/democracy.html">Democracy</a></li>
@@ -64,16 +63,17 @@
               </li>
               <li><a href="/news.html">News</a></li>
             </ul>
-			<ul class="nav pull-right">
+			<ul class="nav">
 			  <li><a href="/about.html">About</a></li>
 			</ul>
-          </div><!--/.nav-collapse -->
-        </div>
-      </div>
-    </div>
 
-  <div id="main" class="container">
+
+		</ul>
+	  </div>
+	  <div class="span9">
 		{{ content }}
+	  </div>
+	</div>
 		<hr />
 		<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/img/cc-by-sa-88x31.png"></a>
 		
