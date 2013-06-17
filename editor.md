@@ -15,6 +15,6 @@ it was seeing the European legislative process at close quarters
 which convinced me that the European Union was, on balance, very bad
 for democracy, freedom, prosperity, equality and efficiency.
 
-My day job is solving business problems that involve computers. I maintain
-this site as a hobby.
-
+My day job is solving business problems that involve computers; a lot
+of this work is in using software to promote political transparency. I maintain
+this site *pro bono*.
