@@ -6,4 +6,7 @@ title: Frequently Asked Questions
 Frequently Asked Questions
 --------------------------
 
-TBD
+* isn't euroscepticism racism?
+* what about the peace?
+* imperial nostalgia
+* House of Lords not democratic
