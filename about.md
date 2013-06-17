@@ -3,9 +3,6 @@ layout: layout
 title: About this site
 ---
 
-Give and Take
-=============
-
 You can contribute to this website; you don't need to know much about
 web development to do so.
 
