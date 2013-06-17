@@ -21,6 +21,13 @@ For example, here is the [the source text for this page](https://raw.github.com/
 Explaining how to do all this is slightly beyond the scope of this page,
 but get in touch if you need some help.
 
+You can also help by sending me
+
+* news articles
+* websites
+* academic papers
+
+containing pro-EU arguments that still need to be rebutted
 
 Taking
 ------
