@@ -5,6 +5,25 @@
 
 //@colourScheme1:					  #4f4fcf;
 @colourScheme1: 				  rgb(51, 102, 153);
+
+// body background
+@colourScheme2: #0a191c;
+
+// h1 background 
+@colourScheme3: #081416;
+
+// p, ul, ol color
+@colourScheme4: #8899aa;
+
+// h1 h2 ul.links
+@colourScheme5: #5acbf3;
+
+// a
+@colourScheme6: #eee;
+
+// em, strong, code
+@colourScheme7: #fff;
+
 // Global values
 // --------------------------------------------------
 
@@ -34,13 +53,13 @@
 
 // Scaffolding
 // -------------------------
-@bodyBackground:        @white;
-@textColor:             @grayDark;
+@bodyBackground:        @colourScheme2;
+@textColor:             @colourScheme4;
 
 
 // Links
 // -------------------------
-@linkColor:             darken(@colourScheme1, 10%);
+@linkColor:             @colourScheme6;
 @linkColorHover:        darken(@linkColor, 15%);
 
 
@@ -57,7 +76,7 @@
 
 @headingsFontFamily:    inherit; // empty to use BS default, @baseFontFamily
 @headingsFontWeight:    bold;    // instead of browser default, bold
-@headingsColor:         @colourScheme1;
+@headingsColor:         @colourScheme5;
 
 
 // Component sizing
