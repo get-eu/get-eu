@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: Some title
+title: About this site
 published: true
 type: post
 status: published
