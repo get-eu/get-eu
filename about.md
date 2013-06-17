@@ -1,9 +1,6 @@
 ---
 layout: layout
 title: About this site
-published: true
-type: post
-status: published
 ---
 
 Give and Take
@@ -18,6 +15,8 @@ Giving
 ------
 
 The 
+
+[the source text for this page](https://raw.github.com/mk270/get-eu/gh-pages/about.md)
 
 
 Taking
