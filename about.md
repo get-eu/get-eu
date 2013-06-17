@@ -16,5 +16,5 @@ The site is intended as a collection of arguments mainly against the
 EU, but giving credit where credit is due where the EU is doing a good
 job.
 
-This work is licensed under the terms of the Creative Commons 3.0
-Attribution Share-Alike licence.
+This work is licensed under the terms of the [Creative Commons 3.0
+Attribution Share-Alike licence](http://creativecommons.org/licenses/by-sa/3.0/).
