@@ -29,3 +29,15 @@ On get-eu.org, you won't find anyone advancing these sorts of arguments,
 about "superstates", "sovereignty" or the symbolism of the EU. These are
 a waste of precious time, and in any case, the EU has a very nice flag.
 It just shouldn't be allowed to be flown from public buildings in the UK.
+
+There are people on all sides of the EU debate who are very intellectually
+dishonest. Some eurosceptics and europhiles just make things up (quite
+a few of the stories in the UK press about crazy Brussels regulations 
+don't have even a grain of truth in them. Others do). Neither side is
+accountable for the lies told in its name. I'm happy to attack
+both sides when they're not telling the truth.
+
+The problem is somewhat one-sided though: many Europhiles aren't even
+*aware* there is a coherent, intellectually honest case to be made against
+their position ... and when they realise their position is indefensible,
+a lot of them resort to denial too.
