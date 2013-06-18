@@ -4,7 +4,7 @@ title: Constitution
 ---
 
 Constitutional questions
-------------------------
+========================
 
 * [Referendums](referendums.html)
 * [Consent and legitimacy](consent-and-legitimacy.html)
