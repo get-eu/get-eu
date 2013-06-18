@@ -4,7 +4,7 @@ title: Democracy
 ---
 
 Democracy
----------
+=========
 
 * [Supranational democracy cannot exist](suprademocracy.html)
 * [Consent and legitimacy](consent-and-legitimacy.html)
