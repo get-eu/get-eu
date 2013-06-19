@@ -12,7 +12,8 @@ Independent
 
 The site is not financially backed by any organisation. It's therefore not
 beholden to any particular ideology or party line, e.g., to renegotiate
-the EU's structure radically then stay in.
+the EU's structure radically then stay in. There's no overall ideology;
+the EU can be attacked from the left and the right.
 
 The editor is [Martin Keegan](http://mk.ucant.org), who believes that the
 UK, and pretty much everyone else, should leave the EU.
