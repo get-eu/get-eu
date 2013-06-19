@@ -4,8 +4,10 @@ title: About this site
 ---
 
 You can contribute to this website; you don't need to know much about
-web development to do so.
-
+web development to do so. I hope to be able to 
+[crowdsource](http://en.wikipedia.org/wiki/Crowdsource) the policy
+analysis on this website, along the lines of the 
+[Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/).
 
 
 Giving
