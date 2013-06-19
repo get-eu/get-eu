@@ -18,3 +18,4 @@ Frequently Asked Questions
 * won't Britain "go it alone" when we leave?
 * don't X jobs depend on the EU?
 * what have the Europeans ever done for us? well, the minimum wage
+* is my Eastern European friend going to be deported when the UK withdraws?
