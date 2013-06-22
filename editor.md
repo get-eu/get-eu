@@ -3,7 +3,7 @@ layout: layout
 title: The Editor
 ---
 
-<p align="center"><img src="/img/mk-lecture-berlin.jpg" /></p>
+<p align="center"><img src="/img/mk-shadowed.png" /></p>
 
 The editor of this site is [Martin Keegan](http://mk.ucant.org). I am not
 an academic, lawyer or politician, just a concerned citizen who happens to be
