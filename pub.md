@@ -12,6 +12,8 @@ Where: Rose and Crown pub of Colombo St Southwark in London, upstairs
 
 When: 7pm, 10 July 2014
 
+Meetup page: [Link](http://www.meetup.com/Eurosceptics-In-The-Pub)
+
 Why:
 
 * In the next few years, Britain will decide whether its future is to remain in the European Union, probably by a referendum. 
@@ -20,7 +22,7 @@ Why:
 * Come a referendum, the British public needs to be armed with the best arguments the Eurosceptic side has to offer, and these are not yet being developed effectively
 * The political class benefits too much from Europe to deliver a Eurosceptic victory, so concerned citizens need to band together to fight for one.
 
-If you share these concerns, please come along and 
+If you share these concerns, please come along.
 
 Want to talk more about: democracy, accountability, freedom, equality, prosperity, efficiency
 
