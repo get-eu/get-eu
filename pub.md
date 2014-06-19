@@ -1,4 +1,3 @@
-
 ---
 layout: layout
 title: Eurosceptics In The Pub
