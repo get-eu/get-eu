@@ -18,6 +18,9 @@ passenger jumping between two small moving boats. Realistically, UK withdrawal
 would be a multi-stage process that changes the set of feasible options
 for European co-operation. 
 
+The are [other measures](/other-reforms.html) which could be adopted
+parallel to withdrawal from the EU.
+
 Models
 ------
 
