@@ -3,11 +3,15 @@ layout: layout
 title: Eurosceptics In The Pub
 ---
 
-Advertisement/Invitation
+Invitation
+==========
 
 Who: moderate Eurosceptics
+
 Where: Rose and Crown pub of Colombo St Southwark in London, upstairs
+
 When: 7pm, 10 July 2014
+
 Why:
 
 * In the next few years, Britain will decide whether its future is to remain in the European Union, probably by a referendum. 
@@ -19,6 +23,7 @@ Why:
 If you share these concerns, please come along and 
 
 Want to talk more about: democracy, accountability, freedom, equality, prosperity, efficiency
+
 Want to talk less about: immigration, superstates, flags, anthems, sovereignty, corpus juris
 
 No bores or conspiracy theorists!
