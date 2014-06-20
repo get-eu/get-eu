@@ -15,3 +15,5 @@ node_modules/
 
 todo
 css/.sass-cache
+
+bin/site_connectivity.*
