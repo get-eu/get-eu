@@ -3,6 +3,9 @@ layout: layout
 title: Will the EU collapse?
 ---
 
+Will the EU collapse?
+=====================
+
 Basically no-one actually thinks the EU, as currently constituted, is
 in any way a good idea. Whether one says this publicly is a matter of
 how one wishes to be perceived. In the UK, support for the EU is
