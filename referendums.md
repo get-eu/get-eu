@@ -53,7 +53,7 @@ then the public votes on an undebated proposition. Imagine what it’s
 like, coming from a country which uses AV, and being told you’re not a
 democracy.
 
-Jon, you are right to question whether a referendum is the right
+It is nevertheless right to question whether a referendum is the right
 mechanism. In countries with sensible constitutions (that is, Ireland,
 Australia, Japan and a few others), constitutional change can only be
 effected by referendums, so the public are accustomed to being
