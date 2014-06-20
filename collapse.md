@@ -9,19 +9,18 @@ how one wishes to be perceived. In the UK, support for the EU is
 basically a way of signalling that one is against nationalism, facism,
 racism, traditionalism, various forms of conservatism, etc. Opposition
 to the EU has often been *perceived to have been* dominated by
-undesirable, politically-incorrect types. This common
-perception of Euroscepticism is wrong, like so many common
-perceptions.
+undesirable, politically-incorrect types. This common perception of
+Euroscepticism is wrong, like so many common perceptions.
 
 The most committed Europhiles basically privately admit the entire
 thing is a catastrophe and work diligently for its reform. No intelligent
 person with self-respect defends the status quo.
 
-My 11 points on the front page of this website fall into three categories: the absence
-of most features of Europe-level democracy, the misdesign and
-misbehaviour of actors (legislators, officials, judges) in the
-European lawmaking processes, and the undesirable effects this all has
-on policy outcomes.
+My 11 points on the front page of this website fall into three
+categories: the absence of most features of Europe-level democracy,
+the misdesign and misbehaviour of actors (legislators, officials,
+judges) in the European lawmaking processes, and the undesirable
+effects this all has on policy outcomes.
 
 So as Abraham Lincoln didn't ask, can a government neither of the
 people, nor by the people, nor for the people, long endure?
