@@ -71,7 +71,7 @@ two diversions:
   state, however much it may exceed the eu in democracy, e.g., the UK's
   house of lords, but this hardly applies to germany or ireland
 
-other bullshit:
+other nonsense:
 
   democracy a bad thing
 
