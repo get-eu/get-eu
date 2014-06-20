@@ -66,6 +66,3 @@ basis. What he doesn’t say is that the EU’s record, when considered
 this way, is pathetic and embarrassing. The radically unitary
 character of the EU’s allocation of competences means that the record
 will deteriorate over time and further delegitimise the polity.
-
-Well done, guys.
-
