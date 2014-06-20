@@ -12,7 +12,7 @@ No demos
 --------
 
 There does not exist a single group of people in respect of whom the
-EU could be a democracy.
+EU could be a [democracy](democracy.html).
 
 No mandate
 ----------
