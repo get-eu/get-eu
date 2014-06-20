@@ -6,13 +6,14 @@ title: Legitimacy
 You’re saying those on the left should really be talking about “what a
 more social EU would actually look like”.
 
-The legitimacy problem can’t be just brushed aside. For the left to
-talk about achieving a “social EU” is for the left to talk about
-*illegitimately* achieving its objectives.
+The legitimacy problem can’t be just brushed aside. For people to
+talk about achieving, say, a "social Europe" or a "free-market Europe" 
+is for them to talk about
+*illegitimately* achieving their objectives.
 
 This is basic democratic / constitutionalist potty training. Movements
-should *not* go about asking “hmm, how can we get what we want without
-doing it democratically?”
+should *not* go about asking "hmm, how can we get what we want without
+doing it democratically?"
 
 *Any* discussion of what the EU should do is a discussion of how to
  avoid proper democratic scrutiny of a policy, and so there should be
@@ -20,10 +21,6 @@ doing it democratically?”
 
 
 ------------
-
-@Jon,
-
-I think there’s a danger of talking past each other.
 
 The GLA example is a good one: what is necessary for the GLA / Mayor
 to be legitimate is not that the electorate feel that they’re
@@ -67,14 +64,7 @@ Revolution.
 
 ---------------
 
-@Ralf Grahn, this claim about referendum genies and farewell
-deliberative democracy, whatever it is, is just rhetoric, isn’t it?
-Has deliberative democracy collapsed in Australia given the rate of
-referendums at one every two and a half years since Federation? No of
-course it hasn’t; the very idea is preposterous and offensive in its
-disregard for the facts.
-
-I don’t get this argument about tax harmonisation. Most EU competences
+Most EU competences
 are acquired not by treaty change but by treaty violation ratified by
 the Luxembourg Court, which has fewer than ten times (maybe fewer than
 three) in fifty years decided that a particular matter was outside the
@@ -83,30 +73,10 @@ creep and a partisan judiciary, but horse-trading. It’s no good for
 tax harmonisation to require unanimity if the Irish Government can
 make a deal in COREPER trading off Ireland’s veto for something else.
 
-Ralf, you are just setting up a straw man. I mentioned the Australian
-system. As you will know (and if you didn’ know, how dare you not
-bother finding out before replying to my post?), amendments to the
-Australian federal constitution take the form of a parliamentary act
-amending the constitution which may only come into force if ratified
-at referendum.
-
-In this case, the “methods of representative democracy” are employed
-in addition to the referendum, so their superiority or otherwise is
-irrelevant. The referendum check prevents a temporary legislative
-majority on a particular question being able to entrench its position
-when it is unrepresentative of the electorate as a whole.
-
-(There is a slight difference, inasmuch as constitutional amendment
-bills don’t require the consent of both houses, but in practice this
-is irrelevant – I think they go through both houses anyway)
-
-Why should the argument that governments and parliaments learn from
-their mistakes not apply also the electorate as a whole?
 
 -------------
 
-@Jon Again, good to see an intellectually honest approach to EU
-matters from the Europhile camp. I’m a little concerned that your
+I’m a little concerned that your
 position is one of “democracy isn’t working too well at Member State
 level, so there’s no point fixing anything at EU level”, which
 presumably isn’t what you meant to say. As it happens, I think
