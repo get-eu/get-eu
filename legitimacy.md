@@ -118,35 +118,16 @@ time; subsidiarity was basically just borrowed out of Catholic Social
 Teaching to help get Maastricht past the nay-sayers, and has never
 been taken seriously by the authorities.
 
-
-@Eurocentric My comments about the UK / Ireland were not 100% serious
-:) I am as aware as you of the historical circumstances driving Irish
-nationalism (for many it was originally a means to the end of agrarian
-and other reforms) in the C19, and don’t really dissent from your
-rebuttal, except to say that the EU *does* suffer from problems
+-------
+The EU *does* suffer from problems
 analogous to those the UK faced in the 1910s: the majority of the
 population of the UK no longer accepts the constitutional position of
 the terms of the UK’s membership of the EU.
-
-I’m not sure I saw you cite any quantitive data about democratic
-consent for EU-level majoritarian ordering of particular policy areas.
 
 As to national parliaments and subsidiarity, it’s a moot point given
 that there’s no effective mechanism for rejecting EU legislation which
 is ultra vires the Treaties, let alone EU legislation in areas of
 legally legitimate EU competence which happen to violate subsidiarity.
-
-Your point about subsidiarity being too political for judicial
-decision is fair enough and I guess I agree.
-
----
-
-@ Martin Keegan
-
-"I don’t think that judically-enforced subsidiarity can work.  it’s a
-vague political concept and you can’t really enforce it through clear
-legal rules.  it’s pretty much always a political decision , and it’s
-too political for the courts to handle safely."
 
 
 
