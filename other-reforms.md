@@ -6,7 +6,9 @@ title: Other reforms
 What reforms could be made short of leaving the EU?
 ===================================================
 
-The following measures, which would have the 
+The following measures, which would make the EU more law-bound and democratic
+and responsive to public opinion, could be adopted unilaterally by member
+states. These things could be done as well as, or instead of, leaving the EU.
 
 * all EU Court decisions that violate the treaties to be declarable as 
   invalid by national courts, analogous to the UK courts' ability to make a 
