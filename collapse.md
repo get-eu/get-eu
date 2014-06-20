@@ -3,27 +3,22 @@ layout: layout
 title: Will the EU collapse?
 ---
 
-The reason is that basically no-one actually thinks the EU, as
-currently constituted, is in any way a good idea. Whether one says
-this publicly is a matter of how one wishes to be perceived. In the
-UK, support for the EU is basically a way of signalling that one is
-against nationalism, facism, racism, traditionalism, various forms of
-conservatism, etc. Opposition to the EU has often been *perceived to
-have been* dominated by undesirable types, and certainly the UK's only
-substantial racist party is highly Eurosceptic (except inasmuch as it
-sees the EU as an instrument for encouraging immigration by white
-people).
-
-The common perception of Euroscepticism is wrong, like so many common
+Basically no-one actually thinks the EU, as currently constituted, is
+in any way a good idea. Whether one says this publicly is a matter of
+how one wishes to be perceived. In the UK, support for the EU is
+basically a way of signalling that one is against nationalism, facism,
+racism, traditionalism, various forms of conservatism, etc. Opposition
+to the EU has often been *perceived to have been* dominated by
+undesirable, politically-incorrect types. This common
+perception of Euroscepticism is wrong, like so many common
 perceptions.
 
-So: there was no-one to have my argument with. The most committed
-Europhiles basically privately admit the entire thing is a catastrophe
-and work diligently for its reform.
+The most committed Europhiles basically privately admit the entire
+thing is a catastrophe and work diligently for its reform. No intelligent
+person with self-respect defends the status quo.
 
-My 11 points in that article fall into three categories: the absence
-of most features of Europe-level democracy (in the last five years I
-have formalised this into testable questions), the misdesign and
+My 11 points on the front page of this website fall into three categories: the absence
+of most features of Europe-level democracy, the misdesign and
 misbehaviour of actors (legislators, officials, judges) in the
 European lawmaking processes, and the undesirable effects this all has
 on policy outcomes.
@@ -45,8 +40,3 @@ unwelcome. Most countries formerly controlled by the UK obtained their
 independence peacefully, and if independence is good enough for
 Canada, for Nigeria, for India and the rest, why is independence not
 good enough for the UK?
-
-I expect it will be the Germans whose patience snaps first though.
-
-
-
