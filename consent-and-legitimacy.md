@@ -3,7 +3,7 @@ layout: layout
 title: Consent and Legitimacy
 ---
 
-The problem is that the existing EU constitutional structure is not
+The existing EU constitutional structure is not
 one which the electorates of the Member States would all have entered
 into willingly. This is for a number of reasons: outside the context
 of accession terms, most electorates have never had a chance to vote
