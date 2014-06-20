@@ -3,16 +3,12 @@ layout: layout
 title: Electoral system in the EU
 ---
 
-I’d love to see a source for the claim that the EU Parliament’s
-internal rules require proportional representation. You just made that
-up, right? How could it be enforced? How was the UK compliant before
-the closed list system was introduced? How is the Republic of Ireland
-compliant now?
+
 
 <hr>
-
-Hello, thanks for the clarification and sorry for flying off the
-handle back there. I still can’t believe it, even though I’ve now read
+The European Parliament elections require each Member State to 
+use proportional representation or STV.
+ I still can’t believe it, even though I’ve now read
 the relevant provisions of 2002/772/EC.
 
 I don’t think we should give in to the slack British usage of
@@ -41,8 +37,6 @@ the laws passed by the MEPs, not the MEPs themselves; you don’t really
 address that in your response.
 
 <hr>
-
-Jon, I don’t think you get out of it that easily.
 
 The input legitimacy here is, as you say, some function of the roles
 of the Commission, Council and Parliament, but you can’t pretend that
