@@ -9,6 +9,9 @@ into willingly. This is for a number of reasons: outside the context
 of accession terms, most electorates have never had a chance to vote
 on the EU/EC/EEC constitutional structures.
 
+Consent for constitutional changes
+==================================
+
 There has been, I think, one single election in a Member State, where
 people have had a serious direct choice about European integration,
 and that was the Maltese general election which settled the
@@ -50,12 +53,3 @@ electorates, who are on most other issues properly represented. It
 seems unlikely that European integration can proceed from now on on
 the basis of defiance of the electorate by national legislators or the
 Luxembourg Court, having legal rather than political/moral legitimacy.
-
-The greater problem is that legally, everyone is locked in to the
-existing structure. It can only be changed unanimously, and the
-various Member States’ electorates want to pull in opposite
-directions. Either the benefits of legal continuity and certainty must
-be abandoned, or must those of democracy.
-
-Those who erected the legal edifice without sufficient democratic
-consultation are to blame.
