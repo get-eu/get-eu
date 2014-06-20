@@ -25,7 +25,7 @@ consider the strcutre of eu governance:
 
   in the EU, the court which does this is basically a sham, and has only sided against federal competence once in sixty years
 
-  it is therefore possible to talk about the optimal allocation of competences, the de jure competences according to treaty, the de facto allocation of competences according to the ECJ, and the allocation of competences according to democratic consent
+  it is therefore possible to talk about the optimal allocation of competences, the de jure competences according to treaty, the de facto allocation of competences according to the [ECJ](glossary.html), and the allocation of competences according to democratic consent
 
   it will be observed that de facto competences are allocated by the ECJ in violation of the treaties; it is thus possible that if the treaties do not reflect people's preferences, the court might be correcting this. readers familiar with these matters may have concluded i put this in as a little joke. the court doesn't give a f*** about how people want competences allocated.
 
