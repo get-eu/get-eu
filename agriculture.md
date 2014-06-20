@@ -17,4 +17,4 @@ Agriculture
 Fisheries
 ---------
 
-See [Fisheries](/fisheries.html)
+See [Fisheries](fisheries.html)
