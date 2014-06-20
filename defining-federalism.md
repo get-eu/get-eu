@@ -3,9 +3,6 @@ layout: layout
 title: Defining Federalism
 ---
 
-More federalism in Jon’s argument seems to be the premise rather than
-the conclusion, but he also doesn’t define what he means by it.
-
 I can see at least three senses of federalism:
 
 1) favouring more power for the federal government as against the
@@ -16,8 +13,6 @@ federation and states, such that the one may not unilaterally revoke
 the powers of the other; contrast “unitary government”
 
 3) favouring the aggregation of states into large states
-
-I think Jon is promoting federalism in senses 1) and 3)
 
 The problem is sense 2), federalism as against unitary
 government. Inherently, this sort of federalism implies an enforceable
