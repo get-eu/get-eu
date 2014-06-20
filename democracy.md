@@ -10,6 +10,31 @@ Democracy
 * [Consent and legitimacy](consent-and-legitimacy.html)
 * [Electoral systems](ep-electoral-system.html)
 
+
+Rebutting Europhile arguments
+=============================
+
+Almost all Europhile arguments about the "democratic deficit" boil down to
+one of the following:
+
+* democracy is a bad thing anyway
+* the UK, or some other member state, is undemocratic, 
+  therefore the EU's lack of democracy is irelevant
+* the parts of the EU which are undemocratic ought to be undemocratic (e.g.,
+  monetary policy); or, more sympathetically, there exist matters which ought
+  not to be decided democratically, and these are the sorts of things the EU
+  tends to do
+* there is a "real" definition of democracy, different from the normal use
+  of the word, which coincidentally happens to mean the EU is democratic
+
+More intellectually honest Europhiles will tend to acknowledge that the EU's
+democratic record is atrocious, but they will often propose remedies which
+will either not improve the situation, or make it worse.
+
+
+Other (unedited notes)
+======================
+
 europhiles claim that the problem with democarcy in the Eu would be
 fixed if the eu institutions were democratic. this just isn't true.
 
