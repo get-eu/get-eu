@@ -10,32 +10,49 @@ Democracy
 * [Consent and legitimacy](consent-and-legitimacy.html)
 * [Electoral systems](ep-electoral-system.html)
 
-europhiles claim that the problem with democarcy in the Eu would be fixed if the eu institutions were democratic. this just isn't true.
+europhiles claim that the problem with democarcy in the Eu would be
+fixed if the eu institutions were democratic. this just isn't true.
 
 the fundamental point is that people do not consent to being governed by
 an EU wide majority on anything.
 
 consider the strcutre of eu governance:
 
-  there are potential subjects of government action: health, criminal justice, economic regulation, trade, tax, redisttribution, welfare, etc, etc; these are hopefully termed "competences" in eu jargon
+  there are potential subjects of government action: health, criminal
+  justice, economic regulation, trade, tax, redisttribution, welfare,
+  etc, etc; these are hopefully termed "competences" in eu jargon
   
-  a legal system identifies which level of government has the final say over a competence: e.g., health at national "member state" level, and trade at eu "federal" level
+  a legal system identifies which level of government has the final
+  say over a competence: e.g., health at national "member state"
+  level, and trade at eu "federal" level
 
-  this decision basically needs to be done by a court, interpreting a constitution
+  this decision basically needs to be done by a court, interpreting a
+  constitution
 
-  in the EU, the court which does this is basically a sham, and has only sided against federal competence once in sixty years
+  in the EU, the court which does this is basically a sham, and has
+  only sided against federal competence once in sixty years
 
-  it is therefore possible to talk about the optimal allocation of competences, the de jure competences according to treaty, the de facto allocation of competences according to the [ECJ](glossary.html), and the allocation of competences according to democratic consent
+  it is therefore possible to talk about the optimal allocation of
+  competences, the de jure competences according to treaty, the de
+  facto allocation of competences according to the
+  [ECJ](glossary.html), and the allocation of competences according to
+  democratic consent
 
-  it will be observed that de facto competences are allocated by the ECJ in violation of the treaties; it is thus possible that if the treaties do not reflect people's preferences, the court might be correcting this. readers familiar with these matters may have concluded i put this in as a little joke. the court doesn't give a f*** about how people want competences allocated.
+  it will be observed that de facto competences are allocated by the
+  ECJ in violation of the treaties; it is thus possible that if the
+  treaties do not reflect people's preferences, the court might be
+  correcting this. readers familiar with these matters may have
+  concluded i put this in as a little joke. the court doesn't give a
+  f*** about how people want competences allocated.
 
 
-if a competence is held at federal level, then a particular state can be
-outvoted by a federation-wide majority. if people in a state will be
-consistently outvoted on some policy, they'll favour the relevant competence
-being held at state level. on other matters they can horse trade, but this
-concentrates power in the state-elvel political elite. if there's nothing
-they can horsetrade about, then they should leave the federation (e.g., ireland from uk)
+if a competence is held at federal level, then a particular state can
+be outvoted by a federation-wide majority. if people in a state will
+be consistently outvoted on some policy, they'll favour the relevant
+competence being held at state level. on other matters they can horse
+trade, but this concentrates power in the state-elvel political
+elite. if there's nothing they can horsetrade about, then they should
+leave the federation (e.g., ireland from uk)
 
 (you can't easily horsetrade or advocate across linguistic boundaries)
 
