@@ -30,11 +30,13 @@ def all_files():
             yield filename
 
 def slug(name):
-    return re.sub(r'[^a-zA-Z0-9]', '_', name)
+    tmp = name.replace('.html', '.md')
+    tmp = tmp.replace('.md', '')
+    return re.sub(r'[^a-zA-Z0-9]', '_', tmp)
 
 def edges():
     for link in get_root_links():
-        e = "root -> " + slug(link.replace('.html', '.md'))
+        e = "root -> " + slug(link)
         yield e
 
     for filename in all_files():
