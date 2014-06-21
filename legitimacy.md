@@ -130,13 +130,6 @@ legally legitimate EU competence which happen to violate subsidiarity.
 
 ------------
 
-@Mr Violet
-
-Is it reasonable to suppose that the EU might one day become
-acceptably democratic? What grounds would there be for such a
-conclusion? Is it reasonable to suppose this might happen within the
-next few decades?
-
 The majority of British people want less decision-making to be done at
 EU level. If these opinions do not change, would it be democratic to
 keep Britain in the EU, under the current or similar terms? Is it
