@@ -3,10 +3,7 @@ layout: layout
 title: Legitimacy
 ---
 
-You’re saying those on the left should really be talking about “what a
-more social EU would actually look like”.
-
-The legitimacy problem can’t be just brushed aside. For people to
+For people to
 talk about achieving, say, a "social Europe" or a "free-market Europe" 
 is for them to talk about
 *illegitimately* achieving their objectives.
