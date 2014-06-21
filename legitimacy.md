@@ -59,7 +59,9 @@ To argue that this *isn’t* necessary puts one on the opposite side
 from Home Rule in 1918, and on the Tory side in the American
 Revolution.
 
----------------
+
+Competence usurpation
+---------------------
 
 Most EU competences
 are acquired not by treaty change but by treaty violation ratified by
@@ -70,16 +72,10 @@ creep and a partisan judiciary, but horse-trading. It’s no good for
 tax harmonisation to require unanimity if the Irish Government can
 make a deal in COREPER trading off Ireland’s veto for something else.
 
+What competences?
+-----------------
 
--------------
-
-I’m a little concerned that your
-position is one of “democracy isn’t working too well at Member State
-level, so there’s no point fixing anything at EU level”, which
-presumably isn’t what you meant to say. As it happens, I think
-democracy is working pretty well in most member states (the notes are
-somewhere on my blog), is feasibly fixable at member state level, but
-that there’s no prospect of adequate democracy at EU level.
+There’s no prospect of adequate democracy at EU level.
 
 There’s a logically prior question about *what* ought to be decidable
 democratically at EU level.
