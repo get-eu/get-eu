@@ -151,6 +151,4 @@ the first place.
 Is it logically consistent to say that it’s Ok for the USA, Ireland,
 Scotland, Kenya, South Africa, Cyprus, Israel, Southern Rhodesia, etc
 to become independent of the UK, but that it is not Ok for the UK to
-be independent of the EU? (I mean, obviously, if one is just an
-anti-English racist bigot, it’s intellectually consistent, but is it
-intellectually consistent with a sane and reasonable world view?)
+be independent of the EU? 
