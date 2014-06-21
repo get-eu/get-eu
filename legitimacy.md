@@ -96,14 +96,21 @@ supranational state, the United Kingdom, fell apart in the 1920s as
 most of Ireland did not consent to being governed from London. Never
 let it be said that supranationalism prevents war ;)
 
-@Nils You say a legitimate EU democracy requires a directly-elected
+
+Direct election of executive
+----------------------------
+
+Some say a legitimate EU democracy requires a directly-elected
 executive. That’s setting the bar pretty high, as most Member States
 have indirectly elected executives – all the constitutional monarchies
 have to, and there are great parliamentary republics such as Germany
 and Italy. There’s more than one legitimate structural model. We do
 not, *always*, have to copy the French and the Americans.
 
-@Mary Subsidiarity is, in practice, non-existent. To have actually
+Subsidiarity
+------------
+
+Subsidiarity is, in practice, non-existent. To have actually
 existing subsidiarity, you need an enforcement mechanism. I think the
 enforcement mechanism needs to be judicial. (The ability of Member
 State legislatures to be able to block Directives on subsidiarity
