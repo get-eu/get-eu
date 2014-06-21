@@ -17,6 +17,7 @@ doing it democratically?"
  no such discussion until the legitimacy issues are resolved.
 
 
+Which demos?
 ------------
 
 The GLA example is a good one: what is necessary for the GLA / Mayor
