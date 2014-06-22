@@ -17,3 +17,6 @@ collective actions must be agreed to by participating nations.
 
 
 
+vetos vs majority
+
+federalism with democracy
