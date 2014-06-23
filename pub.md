@@ -3,8 +3,8 @@ layout: layout
 title: Eurosceptics In The Pub
 ---
 
-Invitation
-==========
+Eurosceptics In The Pub
+=======================
 
 Who: moderate Eurosceptics
 
@@ -19,7 +19,7 @@ Why:
 * In the next few years, Britain will decide whether its future is to 
   remain in the European Union, probably by a referendum. 
 * Today, there are basically no strong, independent, grassroots, cross-party 
-  Eurosceptic organisations or movements. 
+  [Eurosceptic organisations](organisations.html) or movements. 
 * The majority of the British public is Eurosceptic, but to varying degrees. 
   Some favour reform, whilst others favour outright withdrawal from all or 
   part of the EU. 
