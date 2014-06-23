@@ -14,5 +14,5 @@ Microeconomic reform
 * technocracy has failed on its own terms: the regulations are less efficient than those of a democracy
 * undemocratic regulation increases economic inequality along the lines of political connectedness (in fact the *exact* opposite of what supposed free trade / lack of state aid was supposed to achieve)
 * eu law is used to harm competing businesses - the net effect is greater than the benefits
-* diffuse costs, concentrated benefits
+* [diffuse costs, concentrated benefits](http://en.wikipedia.org/wiki/Concentrated_benefits_and_diffuse_costs#interests)
 * used as a weapon against particular countries
