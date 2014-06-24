@@ -119,3 +119,5 @@ other nonsense:
 
   redefine democracy (no true democracy if it lacks the feature which lets
   me win the argument)
+
+the civil service is politically partisan
