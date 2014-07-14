@@ -10,7 +10,7 @@ Who: moderate Eurosceptics
 
 Where: Rose and Crown pub of Colombo St Southwark in London, upstairs
 
-When: 7pm, 10 July 2014
+When: 7pm, second Thursday of the month; next meeting 14 August 2014.
 
 Meetup page: [Link](http://www.meetup.com/Eurosceptics-In-The-Pub)
 
