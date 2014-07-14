@@ -39,3 +39,4 @@ sovereignty, corpus juris
 
 No bores or conspiracy theorists!
 
+Most recent meeting: [notes for July 10](/eitp-minutes-2014-07-10.html)
