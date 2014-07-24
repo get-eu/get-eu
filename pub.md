@@ -6,6 +6,9 @@ title: Eurosceptics In The Pub
 Eurosceptics In The Pub
 =======================
 
+| Who   | moderate Eurosceptics |
+| Where | Rose and Crown        |
+
 Who: moderate Eurosceptics, who want to leave or reform the EU
 
 Where: Rose and Crown pub of Colombo St Southwark in London, upstairs
