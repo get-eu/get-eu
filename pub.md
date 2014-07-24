@@ -6,11 +6,13 @@ title: Eurosceptics In The Pub
 Eurosceptics In The Pub
 =======================
 
-Who: moderate Eurosceptics
+Who: moderate Eurosceptics, who want to leave or reform the EU
 
 Where: Rose and Crown pub of Colombo St Southwark in London, upstairs
 
-When: 7pm, second Thursday of the month; next meeting 14 August 2014.
+When: 7pm, second Thursday of every month
+
+Next meeting: 14 August 2014, the progressive case against the EU
 
 Meetup page: [Link](http://www.meetup.com/Eurosceptics-In-The-Pub)
 
@@ -31,8 +33,8 @@ Why:
 
 If you share these concerns, please come along.
 
-Want to talk more about: democracy, accountability, freedom, equality, 
-prosperity, efficiency
+Want to talk more about: democracy, accountability, social justice, freedom,
+equality, prosperity, efficiency
 
 Want to talk less about: immigration, superstates, flags, anthems, 
 sovereignty, corpus juris
