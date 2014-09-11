@@ -26,6 +26,23 @@ system of exploitation.
 Mechanism
 ---------
 
+When a particular interest group has a policy it wants governments to adopt,
+there are three main ways of getting it adopted and protecting it from
+amendment and repeal:
+
+* enacting the policy as a law
+* getting the policy entrenched in the national constitution
+* getting the policy adopted as a treaty
+
+It turns out that while the first and second of these are more likely to
+get the policy enforced, the third is more likely to protect it from
+repeal in the long-term, once the downsides of the policy have been felt
+by the public.
+
+For the last forty years, the treaty-making powers of states have been
+a significant enabler of "rent-seeking" and "crony capitalism".
+
+
 
 treaties: parliaments and presidents
 
