@@ -42,9 +42,17 @@ by the public.
 For the last forty years, the treaty-making powers of states have been
 a significant enabler of "rent-seeking" and "crony capitalism".
 
+If the first "advantage" of treaties is that they are hard to repeal or
+amend once enacted (normally involving consensus among the countries
+that signed), the other great benefit is that they are less democratic:
+publicity and parliamentary scrutiny are extremely low for treaties: 
 
+* the text is negotiated in secret by bureaucrats, lobbyists and the occasional elected minister
+* there may be no parliamentary involvement at all in ratification
+* parliamentary involvement may be limited to approval, without the ability to amend or horse-trade
+* there is very little publicity, and everything can be kept hush-hush on grounds of compromising the country's negotiating position
+* there is almost always a significant benefit to a country in signing a treaty: this is used as a blunt club to get the public to pay the huge costs
 
-treaties: parliaments and presidents
 
 game theory of concessions
 prisoners dilemma
