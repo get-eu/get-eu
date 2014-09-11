@@ -53,11 +53,22 @@ publicity and parliamentary scrutiny are extremely low for treaties:
 * there is very little publicity, and everything can be kept hush-hush on grounds of compromising the country's negotiating position
 * there is almost always a significant benefit to a country in signing a treaty: this is used as a blunt club to get the public to pay the huge costs
 
+The final advantage of treaties as a means of securing in law policies that
+no-one would vote for is that they set up a Prisoner's Dilemma game for
+opponents. If a trade treaty threatens the interests of consumers, workers,
+the poor, the blind, the disabled, etc, then the civil society organisations
+advocating for the interests of these groups can be bought off, one by one,
+with limited exceptions to the general rules in the proposed treaty. This
+means that the representatives of the blind will concede that it's Ok for
+national legislation to be modified by a hard-to-amend treaty regime, so long
+as blind people gain some benefit. This benefit can be removed in later rounds
+of treaty negotiations, once the advocates of the blind have formally
+given up on blocking the process as a whole.
 
-game theory of concessions
-prisoners dilemma
-
-lock in law LT constitution LT treaty
+Consumer groups and large unions have a harder time getting exceptions, since
+they effectively represent basically the public in general, and so to agree
+to their demands means not so much granting an exception but changing the
+desired policy, which is less likely to happen without considerable pressure.
 
 expanding circles of western countries
 
