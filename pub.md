@@ -12,7 +12,7 @@ Where: Rose and Crown pub of Colombo St Southwark in London, upstairs
 
 When: 7pm, second Thursday of every month
 
-Next meeting: 14 August 2014, the progressive case against the EU
+Next meeting: 13 November 2014
 
 Meetup page: [Link](http://www.meetup.com/Eurosceptics-In-The-Pub)
 
@@ -41,4 +41,4 @@ sovereignty, corpus juris
 
 No bores or conspiracy theorists!
 
-Most recent meeting: [notes for July 10](/eitp-minutes-2014-07-10.html)
+Most recent meeting: August 14 2014 (at the Angel)
