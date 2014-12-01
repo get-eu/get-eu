@@ -40,10 +40,18 @@ Pressure groups
 
 * Business for Britain
 * Get Britain Out
+* European Foundation
+* TEAM
+* Campaign against Euro Federalism
+* Labour Euro Safeguards Campaign
+* ThEUnit
+* Campaign for an Independent Britain
 
 Think tanks
 ===========
 
 * Bruges Group
-
+* Open Europe
+* Global Britain
+* Global Vision
 
