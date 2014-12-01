@@ -42,10 +42,10 @@ Pressure groups
 * Get Britain Out
 * European Foundation
 * TEAM
-* Campaign against Euro Federalism
+* [Campaign against Euro Federalism](http://www.caef.org.uk/)
 * Labour Euro Safeguards Campaign
 * ThEUnit
-* Campaign for an Independent Britain
+* [Campaign for an Independent Britain](http://campaignforanindependentbritain.org.uk/)
 
 Think tanks
 ===========
