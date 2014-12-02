@@ -12,7 +12,7 @@ Where: Rose and Crown pub of Colombo St Southwark in London, upstairs
 
 Next meeting: Wednesday 10 December 2014, 7pm
 
-Meetup page: [Link](http://www.meetup.com/Eurosceptics-In-The-Pub)
+Meetup page: [Link - please use this to tell us you're coming and get told about each month's meeting](http://www.meetup.com/Eurosceptics-In-The-Pub)
 
 Why:
 
@@ -38,4 +38,5 @@ Want to talk less about: immigration, superstates, flags, anthems,
 sovereignty, corpus juris
 
 No bores or conspiracy theorists!
+
 
