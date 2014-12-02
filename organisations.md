@@ -21,11 +21,11 @@ disagree with them about everything *except* Europe.
 Political Parties
 =================
 
-* Conservative Party
-* UK Independence Party
-* NO2EU
-* Green Party of England and Wales
-* Democratic Unionist Party
+* [Conservative Party](https://www.conservatives.com/)
+* [UK Independence Party](http://www.ukip.org/)
+* [NO2EU](http://www.no2eu.com/)
+* [Green Party of England and Wales](http://www.greenparty.org.uk/)
+* [Democratic Unionist Party](http://www.dup.org.uk/)
 
 
 Grassroots organisations
