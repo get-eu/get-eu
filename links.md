@@ -17,6 +17,7 @@ Opinion polling
 Individuals
 ===========
 
+* [Ruth Lea](http://www.global-vision.net/)
 * [Craig Willy](http://www.craigwilly.info/)
 * [Richard North](http://eureferendum.blogspot.com/)
 * [Martin Keegan](http://blog.ucant.org/)
