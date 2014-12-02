@@ -23,9 +23,9 @@ Political Parties
 
 * [Conservative Party](https://www.conservatives.com/)
 * [UK Independence Party](http://www.ukip.org/)
-* [NO2EU](http://www.no2eu.com/)
 * [Green Party of England and Wales](http://www.greenparty.org.uk/)
 * [Democratic Unionist Party](http://www.dup.org.uk/)
+* [NO2EU](http://www.no2eu.com/)
 
 
 Grassroots organisations
@@ -33,7 +33,7 @@ Grassroots organisations
 
 * [Democracy Movement](http://www.democracymovement.org.uk/)
 * [Better Off Out](http://www.betteroffout.net/)
-
+* [Eurosceptics in the Pub](http://www.meetup.com/Eurosceptics-In-The-Pub/)
 
 Pressure groups
 ===============
@@ -46,7 +46,7 @@ Pressure groups
 * [Labour Euro Safeguards Campaign](http://www.lesc.info/)
 * [ThEUnit](http://www.th-eu-nit.com/)
 * [Campaign for an Independent Britain](http://campaignforanindependentbritain.org.uk/)
-
+* [Europeans United for Democracy](http://www.europeansunitedfordemocracy.org/)
 Think tanks
 ===========
 
