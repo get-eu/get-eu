@@ -21,8 +21,8 @@ disagree with them about everything *except* Europe.
 Political Parties
 =================
 
-* UK Independence Party
 * Conservative Party
+* UK Independence Party
 * NO2EU
 * Green Party of England and Wales
 * Democratic Unionist Party
@@ -31,8 +31,8 @@ Political Parties
 Grassroots organisations
 ========================
 
-* Democracy Movement
-* Better Off Out
+* [Democracy Movement](http://www.democracymovement.org.uk/)
+* [Better Off Out](http://www.betteroffout.net/)
 
 
 Pressure groups
@@ -50,8 +50,8 @@ Pressure groups
 Think tanks
 ===========
 
-* Bruges Group
-* Open Europe
-* Global Britain
-* Global Vision
+* [Bruges Group](http://www.brugesgroup.com/)
+* [Open Europe](http://www.openeurope.org.uk/)
+* [Global Britain](http://www.globalbritain.co.uk/)
+* [Global Vision](http://www.global-vision.net/)
 
