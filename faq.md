@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: about
 title: Frequently Asked Questions
 ---
 

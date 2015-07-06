@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: action
 title: Eurosceptics in the Pub, notes, 10 July 2014
 ---
 

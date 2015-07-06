@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: action
 title: Other reforms
 ---
 

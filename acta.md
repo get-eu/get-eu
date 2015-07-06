@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: democracy
 title: ACTA
 ---
 
