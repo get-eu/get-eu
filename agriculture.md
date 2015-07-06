@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: economics
 title: Agriculture / CAP / CFP
 ---
 
