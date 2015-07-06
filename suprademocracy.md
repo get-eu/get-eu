@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: democracy
 title: Is international democracy possible? Or EU democracy?
 ---
 
