@@ -40,6 +40,7 @@ Pressure groups
 
 * [Business for Britain](http://businessforbritain.org/)
 * [Get Britain Out](http://getbritainout.org/)
+* [Referendum Planning Group](http://www.referendumplanninggroup.org.uk/)
 * [European Foundation](http://www.europeanfoundation.org/)
 * [TEAM, The European Alliance of EU-critical Movements](http://www.teameurope.info/)
 * [Campaign against Euro Federalism](http://www.caef.org.uk/)
