@@ -5,10 +5,10 @@ auto: true
 rdiscount:
   extensions: [smart]
 title : Get EU!
-production_url : http://get-eu.org/
+production_url : http://eurosceptics.org/
 description: "Debate about the European Union"
-disqus_shortname: caarlos0blog
-#analytics: UA-32899481-1
+disqus_shortname: eurosceptics
+analytics: UA-65666958-1
 #gauges: 50f2b533613f5d7c8000000c
 author :
   name : Martin Keegan
